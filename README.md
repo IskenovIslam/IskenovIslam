@@ -1,7 +1,7 @@
 ## Iskenov Islam
 
 
-[![Header](https://github.com/IskenovIslam/IskenovIslam/blob/main/assets/scale_1200.jpeg)](https://www.linkedin.com/feed/)
+[![Header](https://github.com/IskenovIslam/IskenovIslam/blob/main/assets/Untitled-2.jpg)](https://www.linkedin.com/feed/)
 
 ## I am junior QA
 
