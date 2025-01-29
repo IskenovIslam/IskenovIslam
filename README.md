@@ -1,4 +1,4 @@
-## 911
+## Iskenov Islam
 
 
 [![Header](https://github.com/IskenovIslam/IskenovIslam/blob/main/assets/scale_1200.jpeg)](https://www.linkedin.com/feed/)
@@ -19,6 +19,6 @@ HardSkills
 
 Follow Me
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000001?style=plastic&?style=for-the-badge&logo=instagram&logoColor=fabf01)](https://www.instagram.com/elturaqwertyeklmnn)
-[![Telegram](https://img.shields.io/badge/-Telegram-000001?style=plastic&style=for-the-badge&logo=telegram&logoColor=fabf01)](https://t.me/dealer)
+[![Instagram](https://img.shields.io/badge/-Instagram-000001?style=plastic&?style=for-the-badge&logo=instagram&logoColor=fabf01)](https://www.instagram.com/qwertyeklmnn)
+[![Telegram](https://img.shields.io/badge/-Telegram-000001?style=plastic&style=for-the-badge&logo=telegram&logoColor=fabf01)](https://t.me/dealer996)
 
